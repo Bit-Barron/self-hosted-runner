@@ -6,56 +6,8 @@
     "workflow": "docker.yml"
   },
   {
-    "repo": "Don-Cryptus/portainer",
+    "repo": "Bit-Barron/gamingfingers",
     "name": "portainer",
-    "branch": "master",
-    "workflow": "docker.yml"
-  },
-  {
-    "repo": "Don-Cryptus/duplicati",
-    "name": "duplicati",
-    "branch": "master",
-    "workflow": "docker.yml"
-  },
-  {
-    "repo": "Don-Cryptus/cashclock",
-    "name": "cashclock",
-    "branch": "master",
-    "workflow": "docker.yml"
-  },
-  {
-    "repo": "Don-Cryptus/coding.global-web",
-    "name": "coding_global_web",
-    "branch": "master",
-    "workflow": "docker.yml"
-  },
-  {
-    "repo": "Don-Cryptus/coding.global-bot",
-    "name": "coding_global_bot",
-    "branch": "master",
-    "workflow": "docker.yml"
-  },
-  {
-    "repo": "Don-Cryptus/echat",
-    "name": "echat",
-    "branch": "master",
-    "workflow": "docker.yml"
-  },
-  {
-    "repo": "Don-Cryptus/igdb-graphql",
-    "name": "igdb_graphql",
-    "branch": "master",
-    "workflow": "docker.yml"
-  },
-  {
-    "repo": "Don-Cryptus/pAlarm",
-    "name": "pAlarm",
-    "branch": "master",
-    "workflow": "docker.yml"
-  },
-    {
-    "repo": "Don-Cryptus/privnote",
-    "name": "privnote",
     "branch": "master",
     "workflow": "docker.yml"
   }
